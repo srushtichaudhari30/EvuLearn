@@ -1,4 +1,4 @@
-# # EvuLearn - YouTube Summarizer and Quiz Generator
+# EvuLearn - YouTube Summarizer and Quiz Generator
 This project is a web application designed to help users effectively learn from YouTube course videos by generating summarized notes and creating an interactive quiz based on the video content.
 
 # Features
