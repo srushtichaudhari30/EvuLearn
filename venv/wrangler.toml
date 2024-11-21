@@ -1,0 +1,25 @@
+name = "whisper"
+compatibility_date = "2023-12-01"
+
+[ai]
+binding="AI"
+
+# [vars]
+[vars]
+GEMINI_API_KEY ="AIzaSyDGR1X_3scWVD2wAoczqrixev33fS4i8ic"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
